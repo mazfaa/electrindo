@@ -1,0 +1,15 @@
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.csproj.AssemblyReference.cache
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.AssemblyInfoInputs.cache
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.AssemblyInfo.cs
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.csproj.CoreCompileInputs.cache
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\bin\Debug\net6.0\Interview.exe
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\bin\Debug\net6.0\Interview.deps.json
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\bin\Debug\net6.0\Interview.runtimeconfig.json
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\bin\Debug\net6.0\Interview.dll
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\bin\Debug\net6.0\Interview.pdb
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.dll
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\refint\Interview.dll
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.pdb
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\Interview.genruntimeconfig.cache
+D:\azfa\app\interview\electrindo-inti-dinamika\Interview\obj\Debug\net6.0\ref\Interview.dll
